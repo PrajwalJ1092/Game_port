@@ -1,0 +1,51 @@
+@import url('https://fonts.cdnfonts.com/css/mortal-kombat');
+
+
+.text-effect a{
+  font-size: 50px;
+  color: white;
+  text-decoration: none;
+  font-family: 'Mortal Kombat 4', sans-serif;
+}
+
+
+.dflex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main_ct{
+  display: flex;
+  justify-content: space-evenly;
+  /* margin-top: 300px; */
+  background-image: linear-gradient(290deg ,yellow , red , black);
+  height: 100vh;
+  
+  
+}
+.text-animation p{
+  /* padding: 380px; */
+  font-size: 20px;
+}
+.text-animation button{
+  /* padding: 380px; */
+  font-size: 20px;
+  background-color: transparent;
+  color: rgb(248, 7, 7);
+  border-radius: 50%;
+  
+}
+
+
+.text-animation h1{
+  font-family: 'Mortal Kombat 4', sans-serif;
+}
+.my-image img{
+    border-radius: 100px 50px 100px 20px ;
+    border: solid 5px rgb(244, 248, 197);
+}
+.text-animation{
+  width: 50%;
+  /* margin-top: 50ppx; */
+}
